@@ -25,3 +25,29 @@ Referências:
 - [On-device, Real-time Body Pose Tracking with MediaPipe BlazePose] (https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)
 - [MoVi: A Large Multipurpose Motion and Video Dataset](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/JRHDRN)
 
+# Dependências 
+
+Abaixo está o comando para baixar as dependências deste projeto.
+
+~~~Python
+pip install -r requirements.txt
+~~~
+
+É possível também criar um [ambiente virtual](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
+
+- Numpy (pip install numpy)
+- Pandas (pip install pandas)
+- Matplotlib (pip install matplotlib)
+- Opencv (pip install opencv-python)
+- Math (pip install math)
+- Scipy (pip install scipy)
+- Pathlib (pip install pathlib)
+- Os (pip install os)
+- Sys (pip install sys)
+- Collections (pip install collections)
+- Re (pip install re)
+- Fastdtw (pip install fastdtw)
+- Dtw (pip install dtw)
+- Seaborn (pip install seaborn)
+- Mediapipe (pip install mediapipe)
+
