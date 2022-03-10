@@ -4,6 +4,8 @@ O centro de massa corporal é um parâmetro bastante útil para o estudo do movi
 
 Pensando nas limitações de custo e na complexidade da aplicação dos equipamentos, este trabalho em desenvolvimento propõe uma abordagem capaz de realizar a estimativa da trajetória do centro de massa automaticamente através da técnica de segmentação corporal, utilizando apenas uma câmera simples e o sistema baseado em rede neural Blaze Pose.
 
+A imagem a seguir demonstra alguns exemplos da rede neural atuando na estimativa de pose usando imagens simples:
+
 Referências: 
 
 - [On-device, Real-time Body Pose Tracking with MediaPipe BlazePose] (https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)
