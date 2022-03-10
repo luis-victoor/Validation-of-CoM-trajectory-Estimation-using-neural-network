@@ -6,6 +6,10 @@ Pensando nas limitações de custo e na complexidade da aplicação dos equipame
 
 A imagem a seguir demonstra alguns exemplos da rede neural atuando na estimativa de pose usando imagens simples:
 
+<p align="center">
+  <img src="https://github.com/gustavomontoli/Validation-of-CoM-trajectory-Estimation-using-neural-network/blob/main/imagens/imagem1.JPG" alt="Exemplos de imagens com rede neural"/>
+</p>
+
 Referências: 
 
 - [On-device, Real-time Body Pose Tracking with MediaPipe BlazePose] (https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)
