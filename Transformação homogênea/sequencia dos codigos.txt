@@ -1,0 +1,5 @@
+Siga a seguinte sequência para rodar os códigos.
+
+1. Separação de pontos médios com dados de MoCap.ipynb
+2. CoM vertical trajectory estimation with Blaze Pose after Homogeneous Transformation.ipynb
+3. Homogeneous Transformation Matrix.ipynb
