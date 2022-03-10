@@ -11,13 +11,13 @@ A imagem a seguir demonstra alguns exemplos da rede neural atuando na estimativa
 </p>
 
 <p align="center">
-  <img src="https://github.com/gustavomontoli/Validation-of-CoM-trajectory-Estimation-using-neural-network/blob/main/imagens/imagem2.JPG" alt="Exemplos de imagens com rede neural"/>
+  <img src="https://github.com/gustavomontoli/Validation-of-CoM-trajectory-Estimation-using-neural-network/blob/main/imagens/imagem3.JPG" alt="Exemplos de imagens com rede neural"/>
 </p>
 
 A segunda etapa deste trabalho está relacionada à comparação entre a estimativa do CoM calculada com o método proposto e aquela obtida a partir de sistemas de captura de movimento (MoCap) mais sofisticados considerados o padrão ouro para este tipo de medição. A imagem abaixo demonstra a comparação preliminar entre os dois sistemas utilizando o algoritmo Dynamic Time Warping.
 
 <p align="center">
-  <img src="https://github.com/gustavomontoli/Validation-of-CoM-trajectory-Estimation-using-neural-network/blob/main/imagens/imagem3.JPG" alt="Exemplos de imagens com rede neural"/>
+  <img src="https://github.com/gustavomontoli/Validation-of-CoM-trajectory-Estimation-using-neural-network/blob/main/imagens/imagem2.JPG" alt="Exemplos de imagens com rede neural"/>
 </p>
 
 Referências: 
