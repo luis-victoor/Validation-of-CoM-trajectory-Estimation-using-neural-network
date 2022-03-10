@@ -1,0 +1,7 @@
+Siga a seguinte sequência para rodar os códigos.
+
+1. CoM trajectory estimation with Blaze Pose.ipynb
+2. Extraction of Mocap data from Movi Database.ipynb
+3. CoM trajectory estimation from MoCap data.ipynb
+4. CoM trajectory estimation data separation.ipynb
+5. MoCap CoM trajectory.ipynb
